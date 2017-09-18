@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <translate xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="1000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="100%"
+        android:toYDelta="100%" />
+
+    <!--
+        fromXDelta,fromYDelta 起始时X，Y座标
+        toXDelta， toYDelta 动画结束时X,Y的座标
+        上面这几个都是可以设置为数字，百分比，或者百分比p，用法和rotate一样
+    -->
